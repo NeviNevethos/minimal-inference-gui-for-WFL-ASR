@@ -8,3 +8,6 @@ A minimal inference gui made by yours truly because i wanted to keep wfl as stri
 - Extract the WFL-ASR zip into a folder and then place the files you just downloaded into the folder
 - Run setup.bat and wait until it finishes
 - Run local_gui.bat once setup has finished
+
+# A small little baby technicality 
+I did not add GPU support to setup due to me not having a non integrated GPU and also because i am, too intellectually stunted to be asked.
