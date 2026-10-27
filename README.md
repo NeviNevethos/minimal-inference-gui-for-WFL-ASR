@@ -9,5 +9,6 @@ A minimal inference gui made by yours truly because i wanted to keep wfl as stri
 - Run setup.bat and wait until it finishes
 - Run local_gui.bat once setup has finished
 
-# A small little baby technicality 
+# Technical details
+setup.bat makes it's own venv and downloads whisper automatically inside the WFL folder.
 I did not add GPU support to setup due to me not having a non integrated GPU and also because i am, too intellectually stunted to be asked.
